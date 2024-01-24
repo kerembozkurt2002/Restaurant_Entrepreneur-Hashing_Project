@@ -8,7 +8,7 @@ import java.io.*;
 /**
  * In this project, I run a lahmacun restaurant chain and accurately process the data about the employees and branches of this company.
  * In this class, I read the input files and direct them to the necessary operations via my brunchOpenHashtable.
- * @author Kerem Bozkurt, Student ID: 2020400177
+ * @author Kerem Bozkurt
  * @since Date: 26.11.2023
  */
 
